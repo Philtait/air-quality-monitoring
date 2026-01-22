@@ -1,0 +1,17 @@
+AIR QUALITY DATA - INITIAL INSPECTION SUMMARY
+============================================================
+
+Dataset Shape: 10,000 rows × 15 columns
+Date Range: [To be determined after cleaning]
+Geographic Coverage: 119 cities across 40 states
+
+AQI Statistics:
+  • Average: 39.45
+  • Min: 0
+  • Max: 775
+
+Next Steps:
+  1. Clean date column (handle '########' values)
+  2. Handle any missing values
+  3. Perform deeper time-series analysis
+  4. Create geographic visualizations (maps)
