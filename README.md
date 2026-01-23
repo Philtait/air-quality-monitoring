@@ -152,7 +152,7 @@ air-quality-project/
 3. ✅ Does timezone affect AQI? (Proxy for geography)
 4. ✅ Does state affect AQI? (Strong effect)
 5. ✅ Do number of sites affect AQI? (Selection bias)
-6. ✅ Does AQI affect defining parameter? (Parameter determines AQI)
+6. ✅ Does AQI affect the defining parameter? (Parameter determines AQI)
 7. ✅ Has time affected AQI? (26% improvement!)
 8. ✅ Does geographic location affect AQI? (Strong effect)
 
@@ -228,7 +228,7 @@ seaborn==0.12.0        # Statistical visualizations
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/air-quality-monitoring.git
+git clone https://github.com/philtait/air-quality-monitoring.git
 cd air-quality-monitoring
 ```
 
@@ -319,10 +319,10 @@ jupyter notebook
 ### For Urban Planners
 - 💡 **Geography > Population** - Location matters more than size
 - 💡 Valley cities (Riverside, Fresno) need **topography-aware** solutions
-- 💡 **Mountain West** has highest regional AQI (dust control needed)
+- 💡 **Mountain West** has the highest regional AQI (dust control needed)
 
 ### For Public Health Officials
-- 📅 **June-August** are highest risk months (Ozone peaks)
+- 📅 **June-August** are the highest risk months (Ozone peaks)
 - 🏙️ **9 California cities** should issue frequent health alerts
 - ✅ **70% of days are "Good"** nationwide (positive message)
 
@@ -364,9 +364,8 @@ jupyter notebook
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@your-username](https://github.com/philtait)
+
 
 ---
 
@@ -379,7 +378,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Environmental Protection Agency (EPA) for air quality data
-- Anthropic Claude for technical guidance and code assistance
 - Open source community for Python libraries
 - Air quality monitoring internship program
 
@@ -388,8 +386,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 **Questions or feedback?**
-- 📧 Email: your.email@example.com
-- 💬 Open an [Issue](https://github.com/YOUR_USERNAME/air-quality-monitoring/issues)
+- 💬 Open an [Issue](https://github.com/philtait/air-quality-monitoring/issues)
 - 🌟 Star this repo if you find it helpful!
 
 ---
